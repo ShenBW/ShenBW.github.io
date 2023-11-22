@@ -58,4 +58,4 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
 Last updated: 2023/12/21
-<embed src="{{ site.baseurl }}/files/bowenshen_cv.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="{{ site.baseurl }}/files/cv_bowenshen.pdf" width="600" height="700" type='application/pdf'> 
