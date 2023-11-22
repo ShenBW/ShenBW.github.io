@@ -25,8 +25,8 @@ table th:nth-of-type(2) {
 
 | Overview | <center>Information |
 |:-:|:-------|
-| ![](/images/publications/dynamic_filter.gif) | **DynamicFilter: an Online Dynamic Objects Removal Framework for Highly Dynamic Environments** <br> Tingxiang Fan *, **Bowen Shen\***, , Hua Chen, Wei Zhang, Jia Pan <br> International Conference on Robotics and Automation (ICRA), 2022. <br> [[project page]](https://sites.google.com/view/dynamicfilter/home) [[arXiv]](https://arxiv.org/pdf/2206.15102.pdf)|
-| ![](/images/publications/smat.gif) | **$\text{S}^{2}$MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenarios** <br> Tingxiang Fan*, **Bowen Shen\***, Yinqiang Zhang*, Chuye Zhang, Lei Yang, Hua Chen, Wei Zhang, Jia Pan <br> Submitted to The International Journal of Robotics Research (IJRR), 2023. <br> [[project page]](https://sites.google.com/view/smat-nav/home) [[arxiv]](https://arxiv.org/pdf/2304.14356.pdf)|
+| ![](/images/publications/dynamic_filter.gif) | **DynamicFilter: an Online Dynamic Objects Removal Framework for Highly Dynamic Environments** <br> Tingxiang Fan\*, **Bowen Shen\***, , Hua Chen, Wei Zhang, Jia Pan <br> International Conference on Robotics and Automation (ICRA), 2022. <br> [[project page]](https://sites.google.com/view/dynamicfilter/home) [[arXiv]](https://arxiv.org/pdf/2206.15102.pdf)|
+| ![](/images/publications/smat.gif) | **$\text{S}^{2}$MAT: Simultaneous and Self-Reinforced Mapping and Tracking in Dynamic Urban Scenarios** <br> Tingxiang Fan\*, **Bowen Shen\***, Yinqiang Zhang\*, Chuye Zhang, Lei Yang, Hua Chen, Wei Zhang, Jia Pan <br> Submitted to The International Journal of Robotics Research (IJRR), 2023. <br> [[project page]](https://sites.google.com/view/smat-nav/home) [[arxiv]](https://arxiv.org/pdf/2304.14356.pdf)|
 
 Teaching
 ------
