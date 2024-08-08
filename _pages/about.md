@@ -30,6 +30,16 @@ table th:nth-of-type(2) {
 
 Selected Projects
 ------
+
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 70%;
+}
+</style>
+
 | Overview | <center>Information |
 |:-:|:-------|
 | ![](/images/projects/task_oriented_object_grasping.gif) | **Task-Oriented Grasping via Vision-Language and Grasping Models** <br> Part of my current research projrct.|
