@@ -57,5 +57,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
-Last updated: 2023/08/12
+Last updated: 2024/08/12
 <embed src="{{ site.baseurl }}/files/shenbw_cv_en.pdf" width="600" height="700" type='application/pdf'> 
